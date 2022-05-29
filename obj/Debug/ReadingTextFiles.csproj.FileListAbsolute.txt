@@ -1,0 +1,13 @@
+C:\Users\HP Workstation\source\repos\ReadingTextFiles\bin\Debug\ReadingTextFiles.exe.config
+C:\Users\HP Workstation\source\repos\ReadingTextFiles\bin\Debug\ReadingTextFiles.exe
+C:\Users\HP Workstation\source\repos\ReadingTextFiles\bin\Debug\ReadingTextFiles.pdb
+C:\Users\HP Workstation\source\repos\ReadingTextFiles\obj\Debug\ReadingTextFiles.csproj.AssemblyReference.cache
+C:\Users\HP Workstation\source\repos\ReadingTextFiles\obj\Debug\ReadingTextFiles.Properties.Resources.resources
+C:\Users\HP Workstation\source\repos\ReadingTextFiles\obj\Debug\ReadingTextFiles.csproj.GenerateResource.cache
+C:\Users\HP Workstation\source\repos\ReadingTextFiles\obj\Debug\ReadingTextFiles.csproj.CoreCompileInputs.cache
+C:\Users\HP Workstation\source\repos\ReadingTextFiles\obj\Debug\ReadingTextFiles.exe
+C:\Users\HP Workstation\source\repos\ReadingTextFiles\obj\Debug\ReadingTextFiles.pdb
+C:\Users\HP Workstation\source\repos\ReadingTextFiles\obj\Debug\ReadingTextFiles.FileContent.resources
+C:\Users\HP Workstation\source\repos\ReadingTextFiles\obj\Debug\ReadingTextFiles.LoadFile.resources
+C:\Users\HP Workstation\source\repos\ReadingTextFiles\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\HP Workstation\source\repos\ReadingTextFiles\obj\Debug\ReadingTextFiles.csproj.CopyComplete
